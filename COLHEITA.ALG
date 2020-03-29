@@ -29,8 +29,8 @@ inicio
    producao_total <- producao_trator * carga_max
    trocas <- int(producao_trator) / tratores
 
-   escreval("A produção total do dia foi",producao_total, " quilos")
+   escreval("A produÃ§Ã£o total do dia foi",producao_total, " quilos")
    escreval("Cada trator carregou", trocas," vezes")
 
 
-fimalgoritmo
+fimalgoritmo 
